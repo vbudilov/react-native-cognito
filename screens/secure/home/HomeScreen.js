@@ -1,6 +1,6 @@
 import React from 'react';
 import {Platform, StyleSheet, Text} from 'react-native';
-import {Button, Container, Content, Header, Icon, Picker} from "native-base";
+import {Container, Content} from "native-base";
 import {mainStyle} from "../../../common/style";
 
 export default class HomeScreen extends React.Component {
