@@ -6,6 +6,10 @@ React Native App with Cognito
 
 
 After reinventing the wheel a bunch of times I decided to create a fairly good-looking react native with Cognito template. 
+
+### NOTE: Here's the "ejected" version: https://github.com/vbudilov/react-native-cognito-pure
+Going forward I will update only the ejected version due to the complexities of keeping both of them insync and since non-Expo version are preferred for PRD usage (from my own experience). 
+
 ### Quickstart
 Install the Expo client on your mobile device and then run the app:
 
