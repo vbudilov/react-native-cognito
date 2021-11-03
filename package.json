@@ -26,7 +26,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "react-native-dropdownalert": "3.10.0",
     "react-navigation": "3.8.1",
-    "validator": "10.11.0"
+    "validator": "13.7.0"
   },
   "devDependencies": {
     "babel-preset-expo": "5.0.0",
