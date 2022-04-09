@@ -19,7 +19,7 @@
     "emoji-utils": "^1.0.1",
     "expo": "32.0.6",
     "graphql-tag": "2.10.1",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "native-base": "2.12.1",
     "react": "16.5.0",
     "react-apollo": "2.3.2",
